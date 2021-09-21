@@ -1,2 +1,0 @@
-# EccomerceTutorial
-Eccomerce Tutorial Project
